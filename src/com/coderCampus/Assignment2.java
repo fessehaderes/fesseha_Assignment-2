@@ -6,5 +6,7 @@ public class Assignment2 {
 		// TODO Auto-generated method stub
 
 	}
-
+// generate random number
+// get user input 
+// etc..
 }
